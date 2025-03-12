@@ -1,6 +1,7 @@
 {
   "name": "todoapp",
   "version": "1.0.0",
+  "homepage": "https://elianakv.github.io/ExpoTodoList",
   "main": "index.js",
   "scripts": {
     "start": "expo start",
